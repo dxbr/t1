@@ -53,7 +53,7 @@ The project is split into two parts: smart contracts and the web client.  To wor
    Create a `.env` file in the root of the repository and provide your Monad testnet RPC endpoint and deployer private key:
 
    ```env
-   PRIVATE_KEY=99427ef37f853e5c75eaaa7b9f1bc7fefc3cc7c52849be5db1814d2a563c139d
+   PRIVATE_KEY=
    RPC_URL=https://testnet.monadexplorer.com/
    ```
 
